@@ -39,8 +39,8 @@ Equivalent RTX 5090 GPU time at 100% utilization. GPU utilization was logged onc
 
 **Where:**
 - interval: 1 minute
-- $u_i$ = GPU utilization (%) during interval $i$
-- $\Delta t$ = duration of interval $i$ (in seconds)
+- u_i = GPU utilization (%) during interval i
+- Delta t = duration of interval i (in seconds)
 
 ### Rank:
 Overall and group ranks are calculated by averaging task scores, which are reported on a scale between 0 and 1.
