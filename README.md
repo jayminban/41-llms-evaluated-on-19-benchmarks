@@ -5,6 +5,8 @@ Benchmarks are grouped into three categories, with the corresponding tasks and m
 
 All evaluations were performed locally on a personal computer.
 
+👉 [View the leaderboard on Hugging Face](https://huggingface.co/spaces/jayminban/41-llms-locally-evaluated-on-19-benchmarks)
+
 ### Reasoning & Math 
 Tasks: gsm8k(exact_match,strict-match), bbh(exact_match,get-answer), arc_challenge(acc_norm,none), anli_r1(acc,none), anli_r2(acc,none), anli_r3(acc,none), gpqa_main_zeroshot(acc_norm,none)
 ### Commonsense & Natural Language Inference 
